@@ -1,0 +1,16 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>软件孵化实验室纳新系统</title><link rel="shortcut icon" href=./favicon.ico><link rel=stylesheet href=https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css integrity=sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u crossorigin=anonymous><link href=./static/css/app.1521e519abc8f83c43c7ca541dedcfa5.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=./static/js/manifest.3ad1d5771e9b13dbdad2.js></script><script type=text/javascript src=./static/js/vendor.1e4ebae48ce865d51f2d.js></script><script type=text/javascript src=./static/js/app.e15de4918fcbd724cff5.js></script></body><script src=https://code.jquery.com/jquery-2.2.4.min.js integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin=anonymous></script><script>// bootstrap点击后自动收回
+  $(document).ready(function() {
+    $(window).scroll(function() {
+      //小屏幕下的导航条折叠
+      if ($(window).width() < 768) {
+        //点击导航链接之后，把导航选项折叠起来
+        $("#navbar ul li a").click(function() {
+          $("#navbar").collapse('hide');
+        });
+        //滚动屏幕时，把导航选项折叠起来
+        $(window).scroll(function() {
+          $("#navbar").collapse('hide');
+        });
+      }
+    })
+  });</script><script src=https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js integrity=sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa crossorigin=anonymous></script></html>
