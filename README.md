@@ -148,9 +148,11 @@
     <td></td>
     <td>2021</td>
      </tr>
+  
+  
+  <tr><td colspan="14"></td></tr>
   <tr>
     <td rowspan="5">全国大学生数学建模竞赛</td>
-   <tr>
     <td></td>
     <td></td>
     <td>2</td>
