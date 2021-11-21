@@ -255,7 +255,6 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
     <td>2021</td>
   </tr>
 </table>
