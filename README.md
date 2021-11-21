@@ -151,7 +151,7 @@
   
    <tr><td colspan="14"></td></tr>
   <tr>
-    <td rowspan="5">中国大学生服务外包创新创业大赛</td>
+    <td rowspan="1">中国大学生服务外包创新创业大赛</td>
     <td></td>
     <td></td>
     <td></td>
@@ -166,82 +166,7 @@
     <td></td>
     <td>2016</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2017</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2018</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2019</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2020</td>
-  </tr>
-   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2021</td>
-     </tr>
+  
   
  <tr><td colspan="14"></td></tr>
   <tr>
@@ -339,7 +264,7 @@
   
    <tr><td colspan="14"></td></tr>
   <tr>
-    <td rowspan="5">山东省电子与信息技术用用大赛</td>
+    <td rowspan="1">山东省电子与信息技术用用大赛</td>
    <tr>
     <td></td>
     <td></td>
