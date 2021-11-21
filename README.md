@@ -151,20 +151,20 @@
   
    <tr><td colspan="14"></td></tr>
   <tr>
-    <td rowspan="1">中国大学生服务外包创新创业大赛</td>
+    <td rowspan="1">全国大学生数学建模竞赛</td>
+    <td></td>
+    <td></td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td>1</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>2016</td>
+    <td>2021</td>
   </tr>
   
   
@@ -264,7 +264,7 @@
   
    <tr><td colspan="14"></td></tr>
   <tr>
-    <td rowspan="1">山东省电子与信息技术用用大赛</td>
+    <td rowspan="5">山东省电子与信息技术用用大赛</td>
    <tr>
     <td></td>
     <td></td>
