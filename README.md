@@ -239,6 +239,25 @@
     <td></td>
     <td>2021</td>
   </tr>
+   <tr><td colspan="14"></td></tr>
+  <tr>
+    <td rowspan="5">山东省电子与信息技术用用大赛</td>
+   <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>1</td>
+    <td>1</td>
+    <td>1</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>2021</td>
+  </tr>
 </table>
 
 <hr>
